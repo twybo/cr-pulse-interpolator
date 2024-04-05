@@ -12,3 +12,4 @@
 # Project settings
 
 .idea/
+**/__pycache__
